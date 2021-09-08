@@ -51,3 +51,9 @@ project has been implemented using Switch case, Functions and basic Programing.
 |---|---|---|---|
 |LR01|FUNCTIONS|AAll the function to be implemeted at there Place|implemented|
 |LR01|converter|All the useful Values to be implemented|Implemented|
+
+
+
+
+![photo-1611125832047-1d7ad1e8e48f](https://user-images.githubusercontent.com/89628029/132539814-cba47b71-22f1-4eb9-bccd-8b44a5d74e8e.jpg)
+
