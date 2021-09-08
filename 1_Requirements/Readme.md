@@ -10,6 +10,9 @@ Objective for this projects are
 1.  Reduce pressure over the user.
 2. make calculation easier and quick.
 # SWOT Analysis
+
+![Shivam Swot analysis](https://user-images.githubusercontent.com/89628029/132558681-2760e44e-5f57-4447-9229-ebd36f5d37d5.jpg)
+
 |  STRENGTH  |  WEAKNESS  | 
 |-----------|--------|
  |Resolve all the normal and average type problems very easiely.|certain values which makes the output to be not defined make problem for program and can struct whole program.|
