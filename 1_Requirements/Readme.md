@@ -53,7 +53,7 @@ project has been implemented using Switch case, Functions and basic Programing.
 |HR01|FUNCTION|DESCRUBTION|STAUS|
 |---|---|---|---|
 |LR01|FUNCTIONS|AAll the function to be implemeted at there Place|implemented|
-|LR01|converter|All the useful Values to be implemented|Implemented|
+|LR02|converter|All the useful Values to be implemented|Implemented|
 
 
 
